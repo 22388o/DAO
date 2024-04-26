@@ -11,9 +11,7 @@ anyhow = "1.0.79"
 bitcoincore-rpc = "0.18.0"
 bitcoind = "0.35.2""
 clap = "4.5.0"
-electrsd = { version= "0.27.1", features = ["bitcoind_23_1", "electrs_0_9_1"] }
-hex = "0.4.3"
 rustyline = { version ="14.0.0", features = ["derive"] }
 serde_json = "1.0.113"
 rgbstd = "0.11.0-beta.5"
-ssid = "0.1.0"
+s2id = "0.1.0"
