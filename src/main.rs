@@ -1,4 +1,4 @@
-use crate::{Multisig, Signer, SSI, BIP340, User, Proposal, Vote};
+use crate::{Multisig, Signer, SSI, BIP340, User, Proposal, Vote, TX};
 
 use rgbstd::interface::{Rgb20, Fungible, Anchor, Balance, Amount};
 use ssdi::BIP340;
