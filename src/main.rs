@@ -8,7 +8,7 @@ impl user for user = {
 fn user = {
 let vote = let vote;
 let proposal = let proposal;
-let tx = let lext;
+let tx = let tx;
     
 }
 }
