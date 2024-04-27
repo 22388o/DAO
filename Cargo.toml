@@ -9,9 +9,9 @@ readme = "README.md"
 [dependencies]
 anyhow = "1.0.79"
 bitcoincore-rpc = "0.18.0"
-bitcoind = "0.35.2""
+bitcoind = "0.35.2"
 clap = "4.5.0"
 rustyline = { version ="14.0.0", features = ["derive"] }
 serde_json = "1.0.113"
 rgbstd = "0.11.0-beta.5"
-s2id = "0.1.0"
+s2id = "0.2.0"
