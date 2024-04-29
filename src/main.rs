@@ -1,8 +1,8 @@
 use crate::{Multisig, Signer, SSI, BIP340, User, Proposal, Vote, TX};
 
 use rgbstd::interface::{Rgb20, Fungible, Anchor, Balance, Amount};
-use ssdi::BIP340;
-use ssdi::Bitcoin;
+use s2id::BIP340;
+use s2id::Bitcoin;
 
 impl user for user = {
 fn user = {
