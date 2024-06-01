@@ -1,6 +1,6 @@
-# Invebit Dao
+# DAO
 
-PoC for Invebit DAO backed by RGB protocol
+PoC for DAO backed by RGB protocol
 
 ## How works?
 
